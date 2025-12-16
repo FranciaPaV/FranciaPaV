@@ -6,7 +6,7 @@
 🔭 Actualmente trabajo en:
 Gestión de negociación con proveedores, contratación y cadena de abastecimiento, donde aplico el análisis de información para optimizar procesos y apoyar la toma de decisiones estratégicas.
 
-🌱 Actualmente aprendo sobre:
+🌱 Tengo conocimientos en:
 Análisis de datos, Python, SQL, Power BI y metodologías de machine learning, fortaleciendo mi perfil para conectar la gestión de compras con el análisis inteligente de datos.
 
 👯 Busco colaborar en:
@@ -21,7 +21,7 @@ Negociación con proveedores, contratación pública y privada, procesos de abas
 📫 Cómo contactarme:
 📧 francia.pareja@gmail.com
 
-🔗 LinkedIn: www.linkedin.com/in/francia-pareja-vallejo-031b0817b
+🔗 LinkedIn: www.linkedin.com/in/francia-pareja-vallejo-analisidedatos
 
 ⚡ Dato curioso:
 Mi carrera comenzó en la negociación y gestión de proveedores, pero descubrí que lo que más me apasiona es entender los datos detrás de las decisiones. Hoy combino ambos mundos: la estrategia y el análisis.
